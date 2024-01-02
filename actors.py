@@ -1,4 +1,5 @@
-print("Favourite Actors List:")
+print(10+4)
+print("i am Siva")
 print("--------- ------ -----")
 print("1. Superstar Rajinikanth \n2. Thalapathy Vijay \n3. Little Superstar Simbu\n4. Nadipui Arakan SJ Suriya")
 actor = input("Enter Your Favourite Actor in this List: ")
